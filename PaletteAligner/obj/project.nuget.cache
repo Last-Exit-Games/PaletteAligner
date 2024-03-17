@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1m5qlz4fiQKaDXKs/rSbJwQHNm5XSAUZ9mUHrfjAD9UQC5Ywk4P9vHvpFbMJpQJUoQti5VoBvVq0quzRbJWP8Q==",
+  "success": true,
+  "projectFilePath": "E:\\Source\\PaletteAligner\\PaletteAligner\\PaletteAligner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulb\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\paulb\\.nuget\\packages\\system.drawing.common\\8.0.3\\system.drawing.common.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
